@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4590" started-at="2021-06-29T12:00:21 IST" finished-at="2021-06-29T12:00:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4590" started-at="2021-06-29T12:00:21 IST" finished-at="2021-06-29T12:00:26 IST">
+      <class name="africa.morocco.loginpage">
+        <test-method status="PASS" signature="pri()[pri:0, instance:africa.morocco.loginpage@35d176f7]" name="pri" duration-ms="8" started-at="2021-06-29T12:00:21 IST" finished-at="2021-06-29T12:00:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pri -->
+      </class> <!-- africa.morocco.loginpage -->
+      <class name="africa.morocco.googleopen">
+        <test-method status="PASS" signature="opening()[pri:0, instance:africa.morocco.googleopen@1dfe2924]" name="opening" duration-ms="4550" started-at="2021-06-29T12:00:21 IST" finished-at="2021-06-29T12:00:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opening -->
+      </class> <!-- africa.morocco.googleopen -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
